@@ -16,6 +16,6 @@ To get started with the Building_Intepreter_In_GOLang project, follow these step
 ## Note - Still in development 
 
 ## Features:
-  - Lexer: Tokenizes input source code into a stream of tokens.
-  - Parser: Parses the token stream into an abstract syntax tree (AST).
-  - Evaluator: Evaluates the AST and performs actions based on the interpreted code.
+  - **Lexer**: Tokenizes input source code into a stream of tokens.
+  - **Parser**: Parses the token stream into an abstract syntax tree (AST).
+  - **Evaluator**: Evaluates the AST and performs actions based on the interpreted code.
