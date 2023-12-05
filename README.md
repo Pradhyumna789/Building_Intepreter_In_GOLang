@@ -9,7 +9,9 @@ To get started with the Building_Intepreter_In_GOLang project, follow these step
 - cd Building_Interpreter_In_GOLang
 
 ### Build and run the interpreter:
-- go build./Building_Interpreter_In_GOLang
+- go build
+./GoInterpreter
+
 
 ## Note - Still in development 
 
