@@ -1,6 +1,6 @@
 ## Getting Started
 
-To get started with the GoInterpreter project, follow these steps:
+To get started with the Building_Intepreter_In_GOLang project, follow these steps:
 
 Clone the repository:
 git clone https://github.com/Pradhyumna789/Building_Intepreter_In_GOLang.git
